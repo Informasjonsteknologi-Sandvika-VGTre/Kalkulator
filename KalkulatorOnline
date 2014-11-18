@@ -3,6 +3,21 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title></title>
+<style>
+        input {
+            max-width: 50px;
+            border-radius: 5px;
+        }
+
+        button {
+            color:white;
+            font-weight: bold;
+            background-color:black;
+            padding: 15px;
+            font-size: 20px;
+        }
+</style>
+    
 </head>
 <body>
     <form id="frm">
